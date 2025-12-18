@@ -1,6 +1,13 @@
-# Invoice Reminder Bot
+# InvoiceBot 💰
 
-Automated follow-up bot for unpaid invoices. Integrates with Stripe and PayPal to track unpaid invoices and send reminder emails.
+> **Invoice Reminder Bot** - Automated follow-up bot for unpaid invoices. Integrates with Stripe and PayPal to track unpaid invoices and send reminder emails.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![Status: Active](https://img.shields.io/badge/status-active-success.svg)](https://github.com/yksanjo/InvoiceBot)
+[![GitHub stars](https://img.shields.io/github/stars/yksanjo/InvoiceBot?style=social)](https://github.com/yksanjo/InvoiceBot)
+
+**InvoiceBot** automates the tedious task of following up on unpaid invoices. Set it and forget it - the bot will send friendly reminders at customizable intervals, helping you get paid faster.
 
 ## Features
 
