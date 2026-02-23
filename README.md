@@ -1,5 +1,12 @@
 # InvoiceBot
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/InvoiceBot/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/InvoiceBot/actions)
+![License](https://img.shields.io/github/license/yksanjo/InvoiceBot)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/InvoiceBot)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/InvoiceBot)
+
 ## Detailed Description
 
 InvoiceBot is maintained as an industry-grade software project with production-ready engineering practices.  
